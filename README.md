@@ -14,5 +14,5 @@ http://www.infoshare.org/main/userguide.aspx#datafiles [<- uploaded as csv]
 
 New York City Department of Health and Mental Hygiene. NYC Tracking Program:
 Environment and Health Data Portal. 
-http://a816-dohbesp.nyc.gov/IndicatorPublic/BuildATable.aspx [<- Download "All Available Data; too large to upload to github"]
+http://a816-dohbesp.nyc.gov/IndicatorPublic/BuildATable.aspx [<- Download "All Available Data"; too large to upload to github]
 
