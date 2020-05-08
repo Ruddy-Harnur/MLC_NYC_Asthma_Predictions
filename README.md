@@ -10,9 +10,9 @@ https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi
 
 Infoshare Online. (n.d.). Data Aggregated from American Community Survey, Census Bureau,
 US Department of Commerce (2013-2017) Retrieved from
-http://www.infoshare.org/main/userguide.aspx#datafiles [<- uploaded as csv]
+http://www.infoshare.org/main/userguide.aspx#datafiles [<- uploaded in Data.zip]
 
 New York City Department of Health and Mental Hygiene. NYC Tracking Program:
 Environment and Health Data Portal. 
-http://a816-dohbesp.nyc.gov/IndicatorPublic/BuildATable.aspx [<- Download "All Available Data"; too large to upload to github]
+http://a816-dohbesp.nyc.gov/IndicatorPublic/BuildATable.aspx [<- Downloaded "All Available Data"; uploaded in Data.zip]
 
